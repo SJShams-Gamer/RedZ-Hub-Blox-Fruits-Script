@@ -1,0 +1,6 @@
+local Settings = {
+    JoinTeam = "Pirates"; -- Pirates / Marines
+    Translator = true;   -- true / false
+}
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SJShams-Gamer/RedZ-Hub-Blox-Fruits-Script/refs/heads/main/RedZhub-bloxfruits-editedbysjshams?token=GHSAT0AAAAAADFME3M6SPHFONQR34JN4FEO2CHR2YQ"))(Settings)
